@@ -1,0 +1,147 @@
+Cmp-Mod V01 Created by PcbNew   date = 2021 October 13, Wednesday 02:35:11
+
+BeginCmp
+TimeStamp = 61CADB9B
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho_out;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADC44
+Path = /6160B6EC
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = UROS_SCD41_footprints:LED_0805_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADE49
+Path = /615FDB4B
+Reference = J2;
+ValeurCmp = Conn_01x04;
+IdModule  = UROS_SCD41_footprints:HEADER-4P_new;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADDD3
+Path = /615EF61B
+Reference = U1;
+ValeurCmp = SCD41;
+IdModule  = UROS_SCD41_footprints:SCD41_3D;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADD77
+Path = /615EE8F3
+Reference = CONN1;
+ValeurCmp = Adafruit_SCD-41-eagle-import_STEMMA_I2C_QT;
+IdModule  = UROS_SCD41_footprints:JST_SH4_3D;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADD44
+Path = /615F9576
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = UROS_SCD41_footprints:R_1206_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADD14
+Path = /615F983B
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = UROS_SCD41_footprints:R_1206_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADCE4
+Path = /616016D7
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = UROS_SCD41_footprints:R_1206_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADCBA
+Path = /616268E7
+Reference = J3;
+ValeurCmp = Conn_01x01;
+IdModule  = UROS_SCD41_footprints:PinHeader_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = 61CADC83
+Path = /6161C412
+Reference = D2;
+ValeurCmp = WS2812B;
+IdModule  = UROS_SCD41_footprints:NEO-Pixel_WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = 618EF46D
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho;
+EndCmp
+
+BeginCmp
+TimeStamp = 619DD334
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho;
+EndCmp
+
+BeginCmp
+TimeStamp = 619DD3CD
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho;
+EndCmp
+
+BeginCmp
+TimeStamp = 61ACB6E9
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho;
+EndCmp
+
+BeginCmp
+TimeStamp = 61BB8D81
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho;
+EndCmp
+
+BeginCmp
+TimeStamp = 61BB8DC5
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho;
+EndCmp
+
+BeginCmp
+TimeStamp = 61BB8E94
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho;
+EndCmp
+
+BeginCmp
+TimeStamp = 61BB8F9F
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = kicad_custom_lib:tancho;
+EndCmp
+
+EndListe
